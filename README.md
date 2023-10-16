@@ -13,3 +13,8 @@ https://www.jeecg.com/#
 http://jimureport.com/
 Baidu Amis
 https://baidu.github.io/amis/zh-CN/docs/index
+
+## Focas lib
+https://github.com/wheeliar/FANUC_Focas_API
+https://www.woody.vip/fanuc/FWLIB32.HTM
+https://www.woody.vip/
