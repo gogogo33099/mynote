@@ -49,3 +49,9 @@ https://github.com/wireless-tag-com/openwrt-ssd20x
 ## OpenWrt
 https://github.com/hi-wooya/openwrt-hiwooya
 
+## Nanopi Neo Core
+### How to build and make image
+https://github.com/friendlyarm/sd-fuse_h3/blob/master/README_cn.md
+### Manual
+https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Core/zh
+
