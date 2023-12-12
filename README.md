@@ -49,6 +49,10 @@ https://github.com/wireless-tag-com/openwrt-ssd20x
 ## OpenWrt
 https://github.com/hi-wooya/openwrt-hiwooya
 
+https://firmware-selector.openwrt.org/?version=23.05.2&target=ramips%2Fmt76x8&id=mediatek_mt7628an-eval-board
+
+https://downloads.openwrt.org/releases/23.05.2/targets/ramips/mt76x8/
+
 ## Nanopi Neo Core
 ### How to build and make image
 https://github.com/friendlyarm/sd-fuse_h3/blob/master/README_cn.md
