@@ -59,3 +59,11 @@ https://github.com/friendlyarm/sd-fuse_h3/blob/master/README_cn.md
 ### Manual
 https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Core/zh
 
+## OPCUA
+https://github.com/open62541/open62541
+
+https://github.com/dathlin/OpcUaHelper
+
+## S7
+https://snap7.sourceforge.net/
+
