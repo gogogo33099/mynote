@@ -67,6 +67,4 @@ https://github.com/dathlin/OpcUaHelper
 ## S7
 https://snap7.sourceforge.net/
 
-## Omron FINS
-https://github.com/lammertb/libfins
 
