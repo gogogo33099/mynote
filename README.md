@@ -70,7 +70,15 @@ https://snap7.sourceforge.net/
 ## Omron FINS
 ###UDP
 https://github.com/gnlcosta/openfins
+
 ###TCP
 https://github.com/stas2/libfins
+
+## OPNVPN
+echo 1 > /proc/sys/net/ipv4/ip_forward
+
+### simple way(1 to 1)
+https://openvpn.net/community-resources/static-key-mini-howto/
+
 
 
