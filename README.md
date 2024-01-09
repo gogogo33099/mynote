@@ -83,7 +83,7 @@ https://openvpn.net/community-resources/static-key-mini-howto/
 ### Manual
 https://openvpn.net/community-resources/reference-manual-for-openvpn-2-6/
 
-###Win Client
+### Win Client
 https://openvpn.net/community-downloads/
 
 
