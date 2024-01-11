@@ -75,7 +75,7 @@ https://github.com/gnlcosta/openfins
 https://github.com/stas2/libfins
 
 ## Melsec MC
-### QNA 3E
+### QNA 3E BIN
 https://github.com/wqliceman/melsec_mc_net
 
 ## OPNVPN
