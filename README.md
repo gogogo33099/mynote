@@ -59,6 +59,9 @@ https://github.com/friendlyarm/sd-fuse_h3/blob/master/README_cn.md
 ### Manual
 https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Core/zh
 
+## Modbus RTU Over TCP
+https://github.com/zhaogaojian/libmodbus_rtu_over_tcp
+
 ## OPCUA
 https://github.com/open62541/open62541
 
@@ -68,10 +71,10 @@ https://github.com/dathlin/OpcUaHelper
 https://snap7.sourceforge.net/
 
 ## Omron FINS
-###UDP
+### UDP
 https://github.com/gnlcosta/openfins
 
-###TCP
+### TCP
 https://github.com/stas2/libfins
 
 ## Melsec MC
