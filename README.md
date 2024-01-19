@@ -53,6 +53,8 @@ https://firmware-selector.openwrt.org/?version=23.05.2&target=ramips%2Fmt76x8&id
 
 https://downloads.openwrt.org/releases/23.05.2/targets/ramips/mt76x8/
 
+https://openwrt.org/releases/15.05/start
+
 ## Nanopi Neo Core
 ### How to build and make image
 https://github.com/friendlyarm/sd-fuse_h3/blob/master/README_cn.md
