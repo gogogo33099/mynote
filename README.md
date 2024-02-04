@@ -58,6 +58,8 @@ https://openwrt.org/releases/15.05/start
 ## Nanopi Neo Core
 ### How to build and make image
 https://github.com/friendlyarm/sd-fuse_h3/blob/master/README_cn.md
+### How to build FriendlyWrt
+https://wiki.friendlyelec.com/wiki/index.php/How_to_Build_FriendlyWrt/zh
 ### Manual
 https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Core/zh
 
