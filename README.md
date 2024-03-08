@@ -88,6 +88,8 @@ https://github.com/wqliceman/melsec_mc_net
 ## Mitsubishi FX
 https://docs.emqx.com/en/neuronex/latest/configuration/south-devices/mitsubishi-fx/overview.html
 
+https://neugates.io/docs/zh/latest/installation/compile.html
+
 https://github.com/102757017/FX_PLC_communication
 
 https://github.com/blueskit/MitsubishiPlcProtocol
