@@ -85,6 +85,11 @@ https://github.com/stas2/libfins
 ### QNA 3E BIN
 https://github.com/wqliceman/melsec_mc_net
 
+## Mitsubishi FX
+https://docs.emqx.com/en/neuronex/latest/configuration/south-devices/mitsubishi-fx/overview.html
+https://github.com/102757017/FX_PLC_communication
+https://github.com/blueskit/MitsubishiPlcProtocol
+
 ## OPNVPN
 echo 1 > /proc/sys/net/ipv4/ip_forward
 
