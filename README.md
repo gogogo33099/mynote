@@ -116,6 +116,10 @@ https://openvpn.net/community-downloads/
 ## UI
 https://docs.lvgl.io
 
+## Golang
+https://github.com/tarm/serial
+
+
 
 
 
