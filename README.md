@@ -119,6 +119,10 @@ https://docs.lvgl.io
 ## Golang
 https://github.com/tarm/serial
 
+## JS terminal
+https://xtermjs.org/
+
+
 
 
 
