@@ -121,6 +121,7 @@ https://github.com/tarm/serial
 
 ## JS terminal
 https://xtermjs.org/
+https://github.com/billchurch/WebSSH2
 
 
 
