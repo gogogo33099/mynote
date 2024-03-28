@@ -13,18 +13,6 @@ https://www.woody.vip/fanuc/FWLIB32.HTM
 
 https://www.woody.vip/
 
-## Iotgateway
-http://iotgateway.net/docs/enterprise/intro/
-
-https://github.com/zhaopeiym/IoTClient
-
-https://www.thingscloud.xyz/
-
-## thingspanel
-http://thingspanel.cn/
-
-https://gitee.com/my_iot/goAdapter
-
 ## rtty
 https://gitee.com/zhaojh329
 
@@ -35,12 +23,6 @@ https://github.com/wireless-tag-com/openwrt-ssd20x
 
 ## OpenWrt
 https://github.com/hi-wooya/openwrt-hiwooya
-
-https://firmware-selector.openwrt.org/?version=23.05.2&target=ramips%2Fmt76x8&id=mediatek_mt7628an-eval-board
-
-https://downloads.openwrt.org/releases/23.05.2/targets/ramips/mt76x8/
-
-https://openwrt.org/releases/15.05/start
 
 ## Nanopi Neo Core
 ### How to build and make image
