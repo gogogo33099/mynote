@@ -6,19 +6,6 @@ https://www.yuque.com/u22138663/bfte2b
 ## linux CMD
 https://segmentfault.com/a/1190000015189254
 
-## Lowcode
-Jeecg
-
-https://www.jeecg.com/#
-
-积木报表大屏设计
-
-http://jimureport.com/
-
-Baidu 
-
-https://baidu.github.io/amis/zh-CN/docs/index
-
 ## Focas lib
 https://github.com/wheeliar/FANUC_Focas_API
 
