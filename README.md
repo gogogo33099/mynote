@@ -19,8 +19,6 @@ https://gitee.com/zhaojh329
 ## Sigmastar
 https://www.comake.online/
 
-https://github.com/wireless-tag-com/openwrt-ssd20x
-
 ## OpenWrt
 https://github.com/hi-wooya/openwrt-hiwooya
 
