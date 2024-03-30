@@ -86,6 +86,14 @@ https://docs.lvgl.io
 ## Golang
 https://github.com/tarm/serial
 
+https://github.com/go-admin-team/go-admin
+
+https://gitee.com/pear-admin/pear-admin-golang
+
+https://www.gin-vue-admin.com/
+
+https://gitee.com/pear-admin/pear-admin-next
+
 ## JS terminal
 https://xtermjs.org/
 
