@@ -90,7 +90,7 @@ https://github.com/go-admin-team/go-admin
 
 https://www.gin-vue-admin.com/
 
-https://gitee.com/pear-admin/pear-admin-next
+http://www.layui-vue.com/zh-CN/resources
 
 ## JS terminal
 https://xtermjs.org/
