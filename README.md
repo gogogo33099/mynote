@@ -103,6 +103,10 @@ http://iotgateway.net/
 
 https://docs.iotsharp.io/
 
+## Vue Component
+https://github.com/dream2023/vue-ele-form-table-editor
+
+
 
 
 
