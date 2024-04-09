@@ -86,6 +86,8 @@ https://docs.lvgl.io
 ## Golang
 https://github.com/tarm/serial
 
+https://github.com/beevik/ntp
+
 https://github.com/go-admin-team/go-admin
 
 https://www.gin-vue-admin.com/
