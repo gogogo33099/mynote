@@ -9,6 +9,8 @@ https://doc.truhigh.com/#/
 https://segmentfault.com/a/1190000015189254
 
 ## Focas lib
+https://www.inventcom.net/cncnetpdm/general/download
+
 https://github.com/wheeliar/FANUC_Focas_API
 
 https://www.woody.vip/fanuc/FWLIB32.HTM
