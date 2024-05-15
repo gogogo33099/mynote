@@ -119,6 +119,8 @@ https://github.com/0voice/cpp_new_features
 
 https://github.com/pistacheio/pistache
 
+https://github.com/yhirose/cpp-httplib
+
 ## LibUV
 https://docs.libuv.org/en/v1.x/guide.html
 
