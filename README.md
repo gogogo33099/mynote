@@ -106,11 +106,6 @@ https://github.com/billchurch/WebSSH2
 ## RS485 to TCP
 https://github.com/gl-inet/gl-rs485
 
-## IoTGateway
-http://iotgateway.net/
-
-https://docs.iotsharp.io/
-
 ## Vue Component
 https://github.com/dream2023/vue-ele-form-table-editor
 
