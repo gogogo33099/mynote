@@ -98,6 +98,8 @@ https://github.com/go-admin-team/go-admin
 
 https://www.gin-vue-admin.com/
 
+https://github.com/cdfmlr/crud
+
 ## JS terminal
 https://xtermjs.org/
 
