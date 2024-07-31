@@ -100,11 +100,6 @@ https://www.gin-vue-admin.com/
 
 https://github.com/cdfmlr/crud
 
-## JS terminal
-https://xtermjs.org/
-
-https://github.com/billchurch/WebSSH2
-
 ## RS485 to TCP
 https://github.com/gl-inet/gl-rs485
 
@@ -112,8 +107,6 @@ https://github.com/gl-inet/gl-rs485
 https://github.com/dream2023/vue-ele-form-table-editor
 
 ## CPP
-https://github.com/0voice/cpp_new_features
-
 https://github.com/pistacheio/pistache
 
 https://github.com/yhirose/cpp-httplib
